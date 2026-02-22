@@ -1,8 +1,5 @@
 # PyBeats
 
----
-
-# 📄 `README.md`
 
 ````markdown
 # 🎵 PyBeats – Dockerized Python MP3 Player
